@@ -6,7 +6,7 @@ import generics.ArrayList;
 public class BookShelfArrayList{
     //declare an ArrayList of Books
     ArrayList<Book> list;
-    final int capacity = 3;
+    final int capacity = 2;
     // this is the capacity of the array
     // Constructor
     public BookShelfArrayList() {
