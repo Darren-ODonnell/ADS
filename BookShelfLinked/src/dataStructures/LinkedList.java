@@ -68,7 +68,7 @@ public class LinkedList<T> implements LinkedListADT<T> {
         return this.count;
     }
 
-    //  Returns a string representation of this list
+    //  Returns a string representation obd f this list
 
     public String toString()
     {
