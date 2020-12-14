@@ -9,7 +9,7 @@ public class BookApplication {
         String aName = new String();
         String anAuthor = new String();
         
-      ArrayStack<Book> stack = new LinkedStack<Book>();
+      ArrayStack<Book> stack = new ArrayStack<Book>();
       
       Book aBook;
       Scanner scan = new Scanner(System.in);
